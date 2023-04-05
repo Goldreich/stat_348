@@ -43,7 +43,7 @@ The University of Chicago
 - Suggested readings:
     - [David Blei's lecture notes](http://www.cs.columbia.edu/~blei/fogm/2015F/notes/exponential-family.pdf)
 
-### Lecture 5 (April 4): Exponential families, information theory, prior & predictive likelihoods
+### Lecture 5 (April 4): Exponential families, information theory, prior & posterior predictive distributions
 - Suggested readings:
     - Fong & Holmes (2020): [On the marginal likelihood and cross-validation](https://github.com/aschein/stat_348/blob/main/materials/FongHolmes2020.pdf)
     - Chap 9.2 of Murphy (2012) [_Machine Learning: A Probabilistic Perspective_](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
