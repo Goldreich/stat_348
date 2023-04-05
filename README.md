@@ -45,7 +45,7 @@ The University of Chicago
 
 ### Lecture 5 (April 4): Exponential families, information theory, prior & predictive likelihoods
 - Suggested readings:
-    - Fong & Holmes (2020): [On the marginal likelihood and cross-validation]([https://watermark.silverchair.com/asz077.pdf](https://github.com/aschein/stat_348/blob/main/materials/FongHolmes2020.pdf)
+    - Fong & Holmes (2020): [On the marginal likelihood and cross-validation](https://github.com/aschein/stat_348/blob/main/materials/FongHolmes2020.pdf)
     - Chap 9.2 of Murphy (2012) [_Machine Learning: A Probabilistic Perspective_](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf)
     - Chap 2.4 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
     - Chap 6 of John Duchi's [lecture notes on information theory](http://www.snn.ru.nl/~bertk/machinelearning/exponential_families.pdf)
